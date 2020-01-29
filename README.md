@@ -1,2 +1,0 @@
-# WannaLight
-Created with CodeSandbox
